@@ -1,0 +1,13 @@
+.panel {
+  width:23%;
+  float:left;
+  margin:10px;
+}
+
+.noride {
+  background-color:salmon;
+}
+
+.yesride {
+  background-color: lightgreen;
+}
